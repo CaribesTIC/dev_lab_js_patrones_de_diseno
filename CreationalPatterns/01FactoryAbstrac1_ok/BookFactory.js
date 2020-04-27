@@ -45,5 +45,3 @@ const SamsBookFactory = (function () {
 })();
 
 
-
-

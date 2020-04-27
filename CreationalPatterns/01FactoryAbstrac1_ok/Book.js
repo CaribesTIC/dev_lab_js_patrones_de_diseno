@@ -120,6 +120,3 @@ const SamsPHPBook = (function () {
     return obj;
 }());
 
-
-
-
